@@ -1,4 +1,4 @@
-### Oi, eu sou o Isaac 👋
+### Oi, eu sou o Isaac  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <!--
 **isaacbrasil/isaacbrasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
