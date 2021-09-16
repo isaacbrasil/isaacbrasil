@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Isaac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Isaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
- <img align="center" alt="Isaac-GIF" src="https://media.giphy.com/media/37Uer6MbSlFgA/giphy.gif?cid=ecf05e476wg2g5gya72amctnvd1l4wshdcjipyvax1n4e45f&rid=giphy.gif&ct=s">
+ <img align="right" alt="Isaac-GIF" src="https://media.giphy.com/media/37Uer6MbSlFgA/giphy.gif?cid=ecf05e476wg2g5gya72amctnvd1l4wshdcjipyvax1n4e45f&rid=giphy.gif&ct=s">
  
   
   ##
