@@ -4,7 +4,7 @@
 - 💻 Currently working with ReactJS, NextJS, TypeScript and SASS
 - 👨‍💻 Developer at <a href="https://elojr.com.br/">Elo Jr.</a>
 - 📚 Computer Science Student at <a href="https://www.ufg.br/">UFG</a>
-- 🎨 Fascinated with Web/Mobile Development
+- 📱 Fascinated with Web & Mobile Development
 ## My Stats
  <div>
   <a href="https://github.com/isaacbrasil">
