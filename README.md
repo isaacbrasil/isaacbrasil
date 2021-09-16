@@ -21,15 +21,16 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacbrasil&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Isaac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Isaac-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Isaac-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Isaac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Isaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Isaac-CSS" height="30" width="40" src="https://img.icons8.com/color/30/000000/sass.png" title="sass"/>&ensp;&ensp;
- </div>
+  <img align="center" alt="Isaac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg title="JavaScript">
+  <img align="center" alt="Isaac-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript">
+ <img align="center" alt="Isaac-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
+ <img align="center" alt="Isaac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
+ <img align="center" alt="Isaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Isaac-SASS" height="30" width="40" src="https://img.icons8.com/color/30/000000/sass.png" title="sass"/>&ensp;&ensp;
  <img align="right" alt="Isaac-GIF" src="https://media.giphy.com/media/37Uer6MbSlFgA/giphy.gif?cid=ecf05e476wg2g5gya72amctnvd1l4wshdcjipyvax1n4e45f&rid=giphy.gif&ct=s">
- 
+ <img align="center" alt="Isaac-SASS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="16px" title="figma">&ensp;&ensp;
+ <img align="center" alt="Isaac-SASS" height="30" width="40" src="https://img.icons8.com/color/30/000000/bootstrap.png" title="bootstrap"/>&ensp;&ensp;                                                                                                                                               
+ </div>
   
   ##
  
