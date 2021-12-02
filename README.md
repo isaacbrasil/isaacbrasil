@@ -1,7 +1,7 @@
 ### Hello, I'm Isaac  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 ## About me
 
-- 💻 Currently working with ReactJS, NextJS, TypeScript and SASS
+- 💻 Currently working with ReactJS, NextJS and TypeScript
 - 👨‍💻 Developer at <a href="https://elojr.com.br/">Elo Jr.</a>
 - 📚 Computer Science Student at <a href="https://www.ufg.br/">UFG</a>
 - 📱 Fascinated with Web & Mobile Development
