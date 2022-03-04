@@ -15,7 +15,7 @@
 ## Tools
 <div style="display: inline_block"><br>
   <img align="center" alt="Isaac-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">&ensp;&ensp;
-  <img align="center" alt="Isaac-Ts" height="30" width="40" src="https://img.icons8.com/color/30/000000/typescript.png" title="TypeScript">&ensp;&ensp;
+  <img align="center" alt="Isaac-Ts" height="40" width="40" src="https://img.icons8.com/color/30/000000/typescript.png" title="TypeScript">&ensp;&ensp;
  <img align="center" alt="Isaac-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">&ensp;&ensp;
  <img align="center" alt="Isaac-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">&ensp;&ensp;
  <img align="center" alt="Isaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="Css3">&ensp;&ensp;
