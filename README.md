@@ -2,7 +2,7 @@
 ## About me
 
 - 💻 Currently working with ReactJS, NextJS and TypeScript
-- 👨‍💻 Developer at <a href="https://elojr.com.br/">Elo Jr.</a>
+- 👨‍💻 Developer at <a href="https://www.supera.com.br/">Supera Inovação em Tecnologia</a>
 - 📚 Computer Science Student at <a href="https://www.ufg.br/">UFG</a>
 - 📱 Fascinated with Web & Mobile Development
 ## My Stats
