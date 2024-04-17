@@ -21,8 +21,8 @@
  <img align="center" alt="Isaac-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="Css3">&ensp;&ensp;
  <img align="center" alt="Isaac-SASS" height="30" width="40" src="https://img.icons8.com/color/30/000000/sass.png" title="Sass"/>&ensp;&ensp;
  <img align="right" alt="Isaac-GIF" src="https://media.giphy.com/media/37Uer6MbSlFgA/giphy.gif?cid=ecf05e476wg2g5gya72amctnvd1l4wshdcjipyvax1n4e45f&rid=giphy.gif&ct=s">
- <img align="center" alt="Isaac-SASS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="16px" title="Figma">&ensp;&ensp;
- <img align="center" alt="Isaac-SASS" height="40" width="40" src="https://img.icons8.com/color/30/000000/bootstrap.png" title="Bootstrap"/>&ensp;&ensp;                                                                                                                                               
+ <img align="center" alt="Isaac-figma" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="16px" title="Figma">&ensp;&ensp;
+ <img align="center" alt="Isaac-bootstrap" height="40" width="40" src="https://img.icons8.com/color/30/000000/bootstrap.png" title="Bootstrap"/>&ensp;&ensp;                                                                                                                                               
  </div>
   
   ## Social Media
