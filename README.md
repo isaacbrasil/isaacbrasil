@@ -2,7 +2,7 @@
 ## About me
 
 - 💻 Interests C#, ReactJS, NextJS and TypeScript
-- 👨‍💻 Developer at <a href="https://ceia.ufg.br/">CEIA</a>
+- 👨‍💻 Developer at <a href="https://waydatasolution.com.br/">Way Data Solutions</a>
 - 📚 Computer Science Student at <a href="https://www.ufg.br/">UFG</a>
 - 📱 Fascinated with Web & Mobile Development
 ## My Stats
